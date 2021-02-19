@@ -3,8 +3,6 @@
 # dependencies
 /node_modules
 
-/webpack
-
 # misc
 .DS_Store
 *.pem
